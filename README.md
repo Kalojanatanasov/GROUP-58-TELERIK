@@ -1,6 +1,6 @@
 GROUP-58-TELERIK
 ================
-Mindmap:
+Mindmap: DataStruct chapter 19 from Introduction of C# programming
 
 
 
